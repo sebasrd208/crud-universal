@@ -9,6 +9,7 @@ import org.springframework.beans.factory.annotation.*;
 @RestController
 //Define la ruta de acceso a la clase controladora
 @RequestMapping(path = "/api/Compu")
+@CrossOrigin
 public class ComputadoraWS {
 
     @Autowired

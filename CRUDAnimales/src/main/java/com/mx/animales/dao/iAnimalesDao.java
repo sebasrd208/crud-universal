@@ -17,4 +17,6 @@ public interface iAnimalesDao extends JpaRepository<Animales, Integer> {
 
     //SELECT * FROM ANIMALES WHERE TIPO = tipo;
     public List<Animales> findByTipoIgnoreCase(String tipo);
+
+
 }

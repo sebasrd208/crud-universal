@@ -10,6 +10,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("muebles")
+@CrossOrigin
 public class MueblesWS {
 
     @Autowired
@@ -53,6 +54,18 @@ public class MueblesWS {
         }else {
             return ResponseEntity.status(HttpStatus.CONFLICT)
                     .body("Error: Ese ID no existe, intenta con otro.");
+        }
+    }
+
+    @DeleteMapping("eliminar/{id}")
+    public ResponseEntity<Muebles> eliminar(@PathVariable int id){
+        Muebles aux = service.buscar(id);
+
+        if(aux == null) {
+            return ResponseEntity.status(HttpStatus.NOT_FOUND).build();
+        }else {
+            service.eliminar(id);
+            return ResponseEntity.status(HttpStatus.OK).body(aux);
         }
     }
 

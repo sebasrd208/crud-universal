@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e9f6567-43f2-47b6-9ced-31f1a6e364b4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../HabitacionesModelMapper/HabitacionesModelMapper/src/test/java/com/mx/habitaciones/service/HabitacionesServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRUDAnimales/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CRUDAnimales/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRUDAnimales/src/main/java/com/mx/animales/dao/iAnimalesDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CRUDAnimales/src/main/java/com/mx/animales/dao/iAnimalesDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRUDEscuela" beforeDir="false" afterPath="$PROJECT_DIR$/../CRUDEscuela" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRUDMuebles/CRUDMuebles/src/main/java/com/example/muebles/controller/MueblesWS.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CRUDMuebles/CRUDMuebles/src/main/java/com/example/muebles/controller/MueblesWS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRUDProductosMapper" beforeDir="false" afterPath="$PROJECT_DIR$/../CRUDProductosMapper" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRUD_Canciones" beforeDir="false" afterPath="$PROJECT_DIR$/../CRUD_Canciones" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computadora/src/main/java/com/example/computadora/controller/ComputadoraWS.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Computadora/src/main/java/com/example/computadora/controller/ComputadoraWS.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="3C8Xyw1EiFooNdqFHGHmzCVhuhi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/sebas/Documents/CursoEnucom/Semana 3/UsuariosDTO"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e9f6567-43f2-47b6-9ced-31f1a6e364b4" name="Changes" comment="" />
+      <created>1775768430072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775768430072</updated>
+    </task>
+    <servers />
+  </component>
+</project>
